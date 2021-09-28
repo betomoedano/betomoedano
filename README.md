@@ -5,7 +5,7 @@
 - ♟ Fun fact: I like to play chess even though I'm not so good. 🤯
 
 ### Connect with me:
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22"/>
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/betomoedano/)
 <!--
 **betomoedano/betomoedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
