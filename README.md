@@ -13,6 +13,7 @@
 <img align="left" height="35" src="http://www.laurel-group.com/wp-content/uploads/AWS-logo.png" style="max-width: 100%;">
 </p>
 
+<br/>
 
 ### Connect with me
 
