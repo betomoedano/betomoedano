@@ -12,7 +12,7 @@
 <img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;">
 <img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
 <img align="left" height="35" src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg">
-<img align="left" height="35" src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-HD-Quality.png">
+<img align="left" height="35" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
 <img align="left" height="35" src="https://www.pngkey.com/png/full/178-1787134_png-file-svg-github-icon-png.png">
 <img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png">
 <img align="left" height="35" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png">
