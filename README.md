@@ -13,7 +13,7 @@
 <img align="left" height="35" src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg">
 <img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png">
 <img align="left" height="35" src="https://www.pngkey.com/png/full/178-1787134_png-file-svg-github-icon-png.png">
-<img align="left" height="35" src="http://jackiesiggardphotography.com/wp-content/uploads/2020/03/7357467_instragram-logo-tailwind-logo-png-download.png.jpeg">
+<img align="left" height="35" width="50" src="https://miro.medium.com/max/800/1*mUISLg4ghf6QYT_f1-cnlg.png">
 <img align="left" height="35" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png">
 <img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png">
  
