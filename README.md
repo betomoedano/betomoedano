@@ -15,7 +15,7 @@
 <img align="left" height="35" src="https://www.pngkey.com/png/full/178-1787134_png-file-svg-github-icon-png.png">
 <img align="left" height="35" src="http://jackiesiggardphotography.com/wp-content/uploads/2020/03/7357467_instragram-logo-tailwind-logo-png-download.png.jpeg">
 <img align="left" height="35" src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png">
-<img align="left" height="35" src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png">
+<img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png">
  
 </p>
 
