@@ -5,7 +5,7 @@
 - ♟ Fun fact: I like to play chess even though I'm not so good. 🤯
 
 ### Connect with me:
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)
 <!--
 **betomoedano/betomoedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
