@@ -11,7 +11,7 @@
 <img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" style="max-width: 100%;">
 <img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;">
 <img align="left" height="35" src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg">
-<img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png">
+<img align="left" height="35" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
 <img align="left" height="35" src="https://www.pngkey.com/png/full/178-1787134_png-file-svg-github-icon-png.png">
 <img align="left" height="35" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png">
 <img align="left" height="35" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png">
