@@ -1,7 +1,7 @@
 # Hi, I'm Alberto 
 ### I am a passionate Software Developer who enjoys spending countless hours coding.
 - 💡  I have an entrepreneurial spirit and love learning new technologies. 
-- 👨🏻‍💻 I’m currently mastering React Native, you can see some of my projects [here](https://betomoedano.netlify.app/)
+- 👨🏻‍💻 I’m currently mastering React and React Native, you can see some of my projects [here](https://betomoedano.netlify.app/)
 - ♟ Fun fact: I like to play chess even though I'm not so good. 🤯
 
 ### Languages and Tools:
