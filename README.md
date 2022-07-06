@@ -6,7 +6,6 @@
 - 🔍 Learn more about me [here](https://codewithbeto.dev/posts/about-me)
 
 ### Languages and Tools:
-
 <p>
 <img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;">
 <img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
