@@ -5,6 +5,8 @@
 - ♟ Fun fact: I like to play chess even though I'm not so good. 🤯 Add me on [**Chess.com**](https://www.chess.com/member/betomoedano)
 - 🔍 Learn more about me [**here**](https://codewithbeto.dev/posts/about-me)
 
+##
+
 ### Languages and Tools:
 <p>
 <img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;">
@@ -22,11 +24,22 @@
 </p>
 </br>
 
+<br />
+
+##
+
 ### Connect with me
 
 [<img align="left" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" width="35" height="35"/>](https://www.youtube.com/channel/UCzkDuc3rSDyEZYo3NoHzalw)
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" height="30"/>](https://www.instagram.com/betomoedano/)
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/betomoedano/)
+
+<br />
+
+## 
+
+![Beto's GitHub stats](https://github-readme-stats.vercel.app/api?username=betomoedano&show_icons=true&count_private=true)
+
 <!--
 **betomoedano/betomoedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
