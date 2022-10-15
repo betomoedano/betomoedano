@@ -2,7 +2,7 @@
 ### I am a passionate Software Developer who enjoys spending countless hours coding.
 - 💡  I have an entrepreneurial spirit and love learning new technologies. 
 - 👨🏻‍💻 I’m currently helping thousands of developers to master React and React Native throw my Platform [**Code with Beto**](https://codewithbeto.dev/learn) and my [**YouTube Channel**](https://www.youtube.com/c/BetoMoedano/featured)
-- ♟ Fun fact: I like to play chess even though I'm not so good. 🤯 Add me on [**Chess.com**](https://www.chess.com/member/betomoedano)
+- ♟ Fun fact: I like to play chess even though I'm not so good. 🤯
 - 🔍 Learn more about me [**here**](https://codewithbeto.dev/posts/about-me)
 
 ##
