@@ -1,33 +1,21 @@
-# Hi, I'm Beto 👋
-### I am a passionate Software Developer who enjoys spending countless hours coding
-- 💡  I have an entrepreneurial spirit and love learning new technologies
-- 👨🏻‍💻 I’m currently helping thousands of developers to master React and React Native throw my Platform [**Code with Beto**](https://codewithbeto.dev/learn) and my [**YouTube Channel**](https://www.youtube.com/@codewithbeto)
-- ♟ Fun fact: I like to play chess even though I'm not so good
-- 🔍 Learn more about me [**here**](https://codewithbeto.dev/blog/about-me)
+# Hey, I’m Beto Moedano 👋  
+**Developer Success Engineer at [Expo](https://expo.dev)** • Founder of [Code with Beto](https://codewithbeto.dev)  
 
-### Connect with me
+I help developers ship real-world apps with **React Native** + **Expo**—faster, better, and with confidence.
 
-[<img align="left" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" width="35" height="35"/>](https://www.youtube.com/@codewithbeto)
-[<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" height="30"/>](https://www.instagram.com/betomoedano/)
-[<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/betomoedano/)
+- 📚 **15,000+ developers** learning on [codewithbeto.dev](https://codewithbeto.dev)
+- 📺 **20,000+ YouTube subscribers** on [@codewithbeto](https://www.youtube.com/@codewithbeto)
+- 🛠️ Building tools, courses & content that skip the fluff and get to the code
 
-<br />
+---
 
-## 
+### 🔗 Let’s connect
 
-![Beto's GitHub stats](https://github-readme-stats.vercel.app/api?username=betomoedano&show_icons=true&count_private=true)
+[🌐 Website](https://codewithbeto.dev) •  
+[📺 YouTube](https://www.youtube.com/@codewithbeto) •  
+[💬 Discord](https://discord.com/invite/dbYfWFw862) •  
+[💼 LinkedIn](https://www.linkedin.com/in/betomoedano/) •  
+[🐦 X (Twitter)](https://x.com/betomoedano) •  
+[🌌 Bluesky](https://bsky.app/profile/codewithbeto.dev)
 
-<!--
-**betomoedano/betomoedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
