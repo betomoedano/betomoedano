@@ -1,5 +1,5 @@
 # Hey, I’m Beto 👋  
-**Developer Success Engineer at [Expo](https://expo.dev)** • Founder of [Code with Beto](https://codewithbeto.dev)  
+Developer Success Engineer at [Expo](https://expo.dev) • Founder of [Code with Beto](https://codewithbeto.dev)  
 
 I help developers ship real-world apps with **React Native** + **Expo**—faster, better, and with confidence.
 
