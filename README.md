@@ -3,8 +3,9 @@ Developer Success Engineer at [Expo](https://expo.dev) • Founder of [Code with
 
 I help developers ship real-world apps with **React Native** + **Expo**—faster, better, and with confidence.
 
+- 🗞️ **Join my free** [**newsletter**](https://cwb.sh/newsletter?r=gh)
 - 📚 **15,000+ developers** learning on [codewithbeto.dev](https://codewithbeto.dev)
-- 📺 **20,000+ YouTube subscribers** on [@codewithbeto](https://www.youtube.com/@codewithbeto)
+- 📺 **25,000+ YouTube subscribers** on [@codewithbeto](https://www.youtube.com/@codewithbeto)
 - 🛠️ Building tools, courses & content that skip the fluff and get to the code
 
 ---
