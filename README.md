@@ -22,6 +22,7 @@ The most comprehensive React Native course — lifetime access, real-world proje
 
 - [**SnapAI**](https://github.com/betomoedano/snapai) ⭐ 1,600+ — AI-powered icon generation CLI for React Native & Expo
 - [**QuickPush**](https://github.com/betomoedano/quick-push) ⭐ 300+ — macOS menu bar app for testing Expo push notifications
+- [**Agent Skills**](https://github.com/Code-with-Beto/skills) 🤹 — Skills and plugins to help mobile developers ship better apps faster with AI assistance
 - [**Inkigo**](https://cwb.sh/inkigo) 📱 — AI-powered tattoo preview app (+$400/MRR) — [App Store](https://cwb.sh/inkigo-ios)
 
 ---
