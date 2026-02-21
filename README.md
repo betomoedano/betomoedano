@@ -16,6 +16,8 @@ The most comprehensive React Native course — lifetime access, real-world proje
 
 👉 [**codewithbeto.dev/learn**](https://cwb.sh/rn?r=gh)
 
+---
+
 ### 🧰 Developer Tools & Apps
 
 - [**SnapAI**](https://github.com/betomoedano/snapai) ⭐ 1,600+ — AI-powered icon generation CLI for React Native & Expo
