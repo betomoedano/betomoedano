@@ -10,6 +10,20 @@ I help developers ship real-world apps with **React Native** + **Expo**—faster
 
 ---
 
+### 🎓 Learn React Native
+
+The most comprehensive React Native course — lifetime access, real-world projects, and a private GitHub org with production-ready starters.
+
+👉 [**codewithbeto.dev/learn**](https://cwb.sh/rn?r=gh)
+
+### 🧰 Developer Tools & Apps
+
+- [**SnapAI**](https://github.com/betomoedano/snapai) ⭐ 1,600+ — AI-powered icon generation CLI for React Native & Expo
+- [**QuickPush**](https://github.com/betomoedano/quick-push) ⭐ 300+ — macOS menu bar app for testing Expo push notifications
+- [**Inkigo**](https://cwb.sh/inkigo) 📱 — AI-powered tattoo preview app (+$400/MRR) — [App Store](https://cwb.sh/inkigo-ios)
+
+---
+
 ### 🔗 Let’s connect
 [🌐 Website](https://codewithbeto.dev) • [📺 YouTube](https://www.youtube.com/@codewithbeto) • [💬 Discord](https://discord.com/invite/dbYfWFw862) • [💼 LinkedIn](https://www.linkedin.com/in/betomoedano/) • [🐦 X (Twitter)](https://x.com/betomoedano) • [🌌 Bluesky](https://bsky.app/profile/codewithbeto.dev)
 
