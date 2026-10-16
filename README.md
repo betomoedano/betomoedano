@@ -1,7 +1,7 @@
 # Hey, I'm Beto 👋  
 Founder of [Code with Beto](https://codewithbeto.dev) (formerly Developer Success at [Expo](https://expo.dev))
 
-I help developers ship real-world apps with **React Native** + **Expo**. Faster, better, with confidence.
+I help developers ship real-world apps with **AI, any framework**. Faster, better, with confidence.
 
 - 🗞️ **Join my free** [**newsletter**](https://cwb.sh/newsletter?r=gh)
 - 📚 **15,000+ developers** learning on [codewithbeto.dev](https://codewithbeto.dev)
