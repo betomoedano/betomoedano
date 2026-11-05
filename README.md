@@ -4,8 +4,8 @@ Founder of [Code with Beto](https://codewithbeto.dev) (formerly Developer Succes
 I help developers ship real-world apps with **AI, any framework**. Faster, better, with confidence.
 
 - 🗞️ **Join my free** [**newsletter**](https://cwb.sh/newsletter?r=gh)
-- 📚 **15,000+ developers** learning on [codewithbeto.dev](https://codewithbeto.dev)
-- 📺 **35,000+ YouTube subscribers** on [@codewithbeto](https://www.youtube.com/@codewithbeto)
+- 📚 **20,000+ developers** learning on [codewithbeto.dev](https://codewithbeto.dev)
+- 📺 **50,000+ YouTube subscribers** on [@codewithbeto](https://www.youtube.com/@codewithbeto)
 - 🛠️ Building tools, courses & content that skip the fluff and get to the code
 
 ---
